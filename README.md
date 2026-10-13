@@ -2,9 +2,13 @@ E-Commerce-Sales-Data-Analysis-Project
 Data Analyst Project Showcasing Data Analysis Using Jupyter Notebook And Python.
 
 🛒 E-Commerce Sales Data Analysis
+
 📌 Overview
+
 This project focuses on analyzing e-commerce sales data to uncover trends, customer behavior, and business insights. It demonstrates an end-to-end analytics workflow, including data cleaning in Excel and exploratory data analysis (EDA) using Python in Jupyter Notebook. The goal is to transform raw data into actionable insights through visualization and analysis.
+
 📂 Dataset
+
 The dataset contains e-commerce transaction data, including:
 Order details (Order ID, date, product)
 Customer information
@@ -13,11 +17,13 @@ Categories and regions
 The raw dataset was cleaned and prepared in Excel before analysis.
 ---
 🛠️ Tools & Technologies
+
 Excel – Data cleaning and preprocessing
 Python (Jupyter Notebook) – Data analysis and visualization
 Libraries: Pandas, NumPy, Matplotlib, Seaborn
 ---
 🔍 Project Steps
+
 1. Data Cleaning (Excel)
 Removed duplicates and handled missing values
 Standardized data formats (dates, currency, categories)
@@ -39,19 +45,24 @@ Heatmaps for correlations
 Used Matplotlib and Seaborn for clear visual representation
 ---
 📊 Dashboard
+
 Visual insights are presented through charts in Jupyter Notebook
+
 Key highlights include:
+
 Sales trends over time
 Category-wise performance
 Regional sales distribution
 Designed to be simple and easy to interpret
 ---
 📈 Results & Insights
+
 Identified top-selling products and high-revenue categories
 Observed seasonal trends in sales
 Highlighted regions with strong and weak performance
 Provided insights to support data-driven business decisions.
 
 🙌 Conclusion
+
 This project showcases essential data analytics skills, including data cleaning, exploratory data analysis, and visualization. It highlights the ability to extract meaningful insights from e-commerce data and present them effectively.
 ---
